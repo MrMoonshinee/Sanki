@@ -1697,6 +1697,21 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Moon",
+          "persistentUuid": "794fd959-5298-4bf9-b46e-b4379f7d4b8b",
+          "width": 0,
+          "x": 448,
+          "y": 384,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
