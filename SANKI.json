@@ -1712,6 +1712,21 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "MeteorRed",
+          "persistentUuid": "c31b5b14-2cf7-4eac-a6f9-ea97237101dd",
+          "width": 0,
+          "x": 960,
+          "y": 160,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
