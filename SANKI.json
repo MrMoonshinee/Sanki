@@ -1682,6 +1682,21 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Cthulhu",
+          "persistentUuid": "63726ffb-1c31-44d0-8e64-5e5ca3f35d13",
+          "width": 0,
+          "x": 768,
+          "y": 256,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
